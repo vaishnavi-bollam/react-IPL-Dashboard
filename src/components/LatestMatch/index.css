@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.latestMatchCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #da237b;
+  color: white;
+  border: none;
+  border-radius: 30px;
+}

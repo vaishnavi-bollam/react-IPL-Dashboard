@@ -1,0 +1,13 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bgNotFound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 50px;
+  background-color: #0f172a;
+  font-style: roboto;
+  color: white;
+}
